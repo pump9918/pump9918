@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?
-type=rounded&color=timeGradient&text=Welcome%20to%20pump9918's%20GitHub%20👋
-&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=pump9918&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpump9918&count_bg=%2358CFF5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -43,14 +41,13 @@ username=pump9918&include_all_commits=true&show_icons=true&theme=cobalt)]
     <!-- Language -->
     <p><strong>Language</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-        <color=f89820?style=for-the-badge&logo=Java&logoColor=white">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white">
     </div>
     <!-- Backend -->
     <p><strong>Backend</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
     </div>
     <!-- App-->
     <p><strong>App</strong></p>
@@ -67,13 +64,13 @@ username=pump9918&include_all_commits=true&show_icons=true&theme=cobalt)]
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white"> 
     </div>
-    
-    <!-- Others -->
-    <p><strong>Others</strong></p>
+    <!-- Version Control -->
+    <p><strong>Version Control</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
-    </div><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"> 
+        <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"> 
+    </div>
 </div>
